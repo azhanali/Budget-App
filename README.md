@@ -3,5 +3,5 @@
 
 ## This is how interface looks like.
 
-It has option to cancel income or expense and shows which percent of expension i sused in which category.
+We can add income and expenses and can delete it in future too and it also shows percentage of income used by a particular expension.
 ![](Demo.png)
